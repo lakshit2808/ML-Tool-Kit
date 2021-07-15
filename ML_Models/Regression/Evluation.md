@@ -12,4 +12,10 @@
 - TSS	=	total sum of squares
   <img src='https://www.gstatic.com/education/formulas2/355397047/en/total_sum_of_squares.svg'/>
   
+  - TSS	=	total sum of squares
+  - {n}	=	number of observations
+  - y_{i}	=	value in a sample
+  - \bar{y}	=	mean value of a sample
+
+  
   
