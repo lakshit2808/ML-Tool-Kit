@@ -22,3 +22,5 @@
 <img src='https://miro.medium.com/max/1838/1*UcGHE57Zy0GauuLSgzGXug.png'/>
   
   
+# Model Optmization
+The hyperparameters are the parameters that are not learnt and that are fixed values inside the model equations. For example, the regularization parameter lambda or the inverse regularization parameter C are hyperparameters. So far we used the default value of these hyperparameters, and we haven't searched for their optimal value so that your model reaches even higher performance. Finding their optimal value is exactly what Parameter Tuning is about.
