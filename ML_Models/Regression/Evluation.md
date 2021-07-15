@@ -17,5 +17,8 @@
   - y_{i}	=	value in a sample
   - \bar{y}	=	mean value of a sample
 
+
+# Adj. R-Squared
+<img src='https://miro.medium.com/max/1838/1*UcGHE57Zy0GauuLSgzGXug.png'/>
   
   
