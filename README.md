@@ -52,4 +52,4 @@
 <br>
     
 ## License
-[MIT License]('https://github.com/lakshit2808/ML-Tool-Kit/blob/master/LICENSE')
+[MIT License](https://github.com/lakshit2808/ML-Tool-Kit/blob/master/LICENSE)
