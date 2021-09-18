@@ -27,4 +27,8 @@
   - Clustering
     - K-Mean Clustering
     - Hierarchical Clustering 
+  - Recommendation System
+    - Association Rule
+      - Apriori Algorithm
+      - Eclat Algorithm
     
