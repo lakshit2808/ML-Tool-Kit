@@ -10,8 +10,18 @@
     - Simple Regression
     - Multi Linear Regression
     - Polynomial Regression
+    - Support Vector Regression(SVR)
     - Decision Tree Regression
     - Random Forest Regression
-    - Support Vector Regression
     - Regression Templates
     - Model Evluation
+  - Classification
+    - Logistic Regression
+    - KNearestNeighbor(KNN)
+    - Support Vector Machine(SVM)
+    - Kernel Support Vector Machine(Kernel SVM)
+    - Naive Bayes
+    - Decision Tree Classification
+    - Random Forest Classification
+    - Evluation 
+    
