@@ -1,12 +1,13 @@
 
 ## Table of Contents
 
-- Python Basic to Advance
-- Pandas
-- Data Visualization
-- Data Preprocessing
-- ML Models
-  - Regression
+- [Python Basic to Advance](https://github.com/lakshit2808/ML-Tool-Kit/blob/master/Python_Basics_to_Advance/full_course.MD)
+- [Pandas](https://github.com/lakshit2808/ML-Tool-Kit/blob/master/Pandas)
+- [Numpy](https://github.com/lakshit2808/ML-Tool-Kit/blob/master/Numpy/)
+- [Data Visualization](https://github.com/lakshit2808/ML-Tool-Kit/blob/master/Data_Visualization/)
+- [Data Preprocessing](https://github.com/lakshit2808/ML-Tool-Kit/tree/master/Data_Preprocessing)
+- [ML Models](https://github.com/lakshit2808/ML-Tool-Kit/tree/master/ML_Models)
+  - [Regression](https://github.com/lakshit2808/ML-Tool-Kit/tree/master/ML_Models/Regression)
     - Simple Regression
     - Multi Linear Regression
     - Polynomial Regression
