@@ -1,5 +1,6 @@
 # ML-Tool-Kit
 
+## Table of Contents
 
 - Python Basic to Advance
 - Pandas
@@ -27,8 +28,25 @@
   - Clustering
     - K-Mean Clustering
     - Hierarchical Clustering 
-  - Recommendation System
-    - Association Rule
-      - Apriori Algorithm
-      - Eclat Algorithm
+- Recommendation System
+  - Association Rule
+    - Apriori Algorithm
+    - Eclat Algorithm
+- Reinforcement Learning
+  - Upper Confidence Bound(UCB)
+  - Thompson Sampling
+- Natural Language Process(NPL)
+- Deep Learning
+  - Artificial Neural Network(ANN)
+    - ANN for Regression Problems
+  - Convolutional Neural Network(CNN)
+- Dimensionality Reduction
+  - Principal Conponent Analysis(PCA)
+  - Linear Discriminant Analysis(LDA)
+  - Kernel Principal Conponent Analysis(Kernel PCA)
+- Model Selection and Boosting
+  - Model Selection
+    - K Fold Cross Validation
+    - Grid Search 
+  - XGBoost
     
