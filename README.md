@@ -51,8 +51,8 @@
   
 <br>    
 
-## [Code of Conduct](https://github.com/lakshit2808/ML-Tool-Kit/blob/master/CODE_OF_CONDUCT.md)
-
+## Code of Conduct
+[COC](https://github.com/lakshit2808/ML-Tool-Kit/blob/master/CODE_OF_CONDUCT.md)
 
 <br>
     
