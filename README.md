@@ -48,7 +48,12 @@
     - K Fold Cross Validation
     - Grid Search 
   - XGBoost
-    
+  
+<br>    
+
+## [Code of Conduct](https://github.com/lakshit2808/ML-Tool-Kit/blob/master/CODE_OF_CONDUCT.md)
+
+
 <br>
     
 ## License
