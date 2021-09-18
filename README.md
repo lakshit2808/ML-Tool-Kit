@@ -24,4 +24,7 @@
     - Decision Tree Classification
     - Random Forest Classification
     - Evluation 
+  - Clustering
+    - K-Mean Clustering
+    - Hierarchical Clustering 
     
